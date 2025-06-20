@@ -150,7 +150,7 @@ img {
   gap: 24px;
 }
 .management-item {
-  flex-basis: calc((100% - 4 * 24px) / 4);
+  flex-basis: calc((100% - 3 * 24px) / 4);
 }
 .management-part {
   font-weight: 500;
